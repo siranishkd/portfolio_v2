@@ -1,5 +1,5 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
+title : "KNOW MORE can anot<br> ABOUT ME"
 image : "images/backgrounds/About.jpg"
 #image_width: 3000px
 # button
